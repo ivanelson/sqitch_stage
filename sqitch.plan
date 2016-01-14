@@ -2,3 +2,4 @@
 %project=blog
 %uri=https://github.com/ivanelson/sqitch_stage.git
 
+posts 2016-01-14T13:45:51Z ivanelson <ivanelsonnunes@gmail.com> # Creates table blog in postgres
